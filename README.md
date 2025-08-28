@@ -10,11 +10,11 @@
 
 <p align="center">
   <!-- Repo Status Badges -->
-  <img src="https://img.shields.io/github/last-commit/El-Qady/-"/>
-  <img src="https://img.shields.io/github/languages/count/El-Qady/-"/>
-  <img src="https://img.shields.io/github/repo-size/El-Qady/-"/>
-  <img src="https://img.shields.io/github/license/El-Qady/-"/>
-  <img src="https://img.shields.io/github/stars/El-Qady/-?style=social"/>
+  <img src="https://img.shields.io/github/last-commit/El-Qady/Serdab"/>
+  <img src="https://img.shields.io/github/languages/count/El-Qady/Serdab"/>
+  <img src="https://img.shields.io/github/repo-size/El-Qady/Serdab"/>
+  <img src="https://img.shields.io/github/license/El-Qady/Serdab"/>
+  <img src="https://img.shields.io/github/stars/El-Qady/Serdab?style=social"/>
 </p>
 
 ---
