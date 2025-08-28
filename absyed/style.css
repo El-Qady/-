@@ -1,0 +1,128 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200..1000&display=swap');
+*{
+    font-family: Cairo;
+} */
+.container {
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+width: 100%;
+direction: rtl;
+display:flex;
+}
+body{
+    overflow-y: hidden;
+}
+.container .right{
+    width: 60%;
+}
+/* .left .center{
+    margin-bottom: 10rem;
+} */
+.container .right img{
+height: 97vh;
+width: 100%;
+background-size: contain;
+}
+.container .left{
+    padding: 0px 80px;
+    position: relative;
+}
+.container .left .logo{
+    display: flex;
+}
+.container .left .logo .p{
+    padding-right: 10px;
+    position: relative;
+    bottom: 5px;
+    color: #1a8597;
+    font-weight: bolder;
+}
+.container .left .t{
+    position: relative;
+    top:76px;
+}
+.container .left .t .p1{
+    font-size: 50px;
+    font-weight: bolder;
+}
+.container .left .t .p2{
+    position: relative;
+    bottom: 50px;
+    font-size: 25px;
+    color:rgb(128, 126, 126) ;
+}
+.container .left .inp{
+    padding-top: 25px;
+    /* margin-top: 10px; */
+}
+.container .left input{
+    display: block;
+    margin-bottom: 15px;
+    width: 380px;
+    height: 50px;
+    border-radius: 7px;
+    font-size: 17px;
+    border: 2px solid rgb(134, 131, 131);
+    padding-right: 15px;
+}
+.container .left button{
+    display: block;
+    margin-bottom: 15px;
+    width: 400px;
+    height: 45px;
+    border-radius: 7px;
+    font-size: 20px;
+    color: white;
+    border:none;
+    background-color: #1a8597;
+    transition: 0.5s;
+    overflow: hidden;
+}
+.container .left button:hover{
+    background-color: #0b3c44;
+    /* scale:2; */
+    /* width: 415px; */
+    padding: 12px;
+    cursor: pointer;
+}
+.container .left .foot .o{
+    display: flex;
+}
+.container .left .foot .o hr{
+width: 150px;
+height: 0;
+}
+.container .left .foot .o p{
+    position: relative;
+    bottom: 15px;
+}
+.foot .googel{
+    text-align: center;
+    border: 2px solid rgb(143, 137, 137);
+    height: 40px;
+    border-radius: 7px;
+    font-size: 20px;
+    transition: 0.2s;
+}
+.foot .googel:hover{
+    /* border: 2px dashed #0d2e35; */
+    background-color: #0f4c57;
+    cursor: pointer;
+    color: antiquewhite;
+}
+.foot .googel .n{
+    position: relative;
+    top: 6px;
+}
+.last{
+    text-align: center;
+    font-size: 17px;
+    color: rgb(138, 133, 133);
+}
+.last a{
+    color: #1d8597;
+    text-decoration: underline;
+    font-size: 20px;
+    padding-right: 4px;
+}
